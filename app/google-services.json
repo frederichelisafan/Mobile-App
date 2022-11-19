@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943445706792",
+    "project_id": "kuliah-app-project",
+    "storage_bucket": "kuliah-app-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943445706792:android:393d983dece48aeefb4d1d",
+        "android_client_info": {
+          "package_name": "id.ac.umn.financialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943445706792-ogvvph2238fnq9ndf1ogb9gf0904ta0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwjvLeZw16MVVAyvDvX7jeAv-E04-Vpk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943445706792-ogvvph2238fnq9ndf1ogb9gf0904ta0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
